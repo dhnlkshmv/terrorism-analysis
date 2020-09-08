@@ -1,0 +1,89 @@
+/* CSS for app.py */
+
+#Main_Layout {
+	background-color: #f2f2f2;
+	color: #4d4d4d;
+	display: block;
+	margin: auto;
+	padding: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h4 {
+	text-align: center;
+	text-decoration-style: solid;
+	display: block;
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;	
+}
+
+#Tabs, #subtabs, #subtabs2 {
+	width: 800px;
+	text-align: center;
+	display: block;
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+#month, #date, #region-dropdown, 
+#country-dropdown, #state-dropdown, #city-dropdown, 
+#attacktype-dropdown, #chart-dropdowns {
+	width: 795px;
+    height: auto;
+	text-align-last: center;
+	text-align: center !important;
+	display: block;
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+#search {
+	height: 25px;
+	width: 250px;
+	text-align: center;
+	display: block;
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#year-slider, #c-year-slider {
+	display: block;
+	height: 25px;
+	opacity: 0.7;
+	transition: opacity .2s;
+	padding: 20px 20px !important;
+    background-color: #e6e6e6;
+}
+
+#graph-object {
+	font-style: oblique;
+	display: block;
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: all-scroll;
+}
+
+#map-tool:hover, #map-tool:active, #chart-tool:hover, #chart-tool:active {
+	border: 1px solid #cccccc;
+	cursor: pointer;
+}
+#World:hover, #World:active, #India:hover, #India:active {
+	border: 1px solid #cccccc;
+	cursor: pointer;
+}
+
+#WorldC:hover, #WorldC:active, #IndiaC:hover, #IndiaC:hover {
+	border: 1px solid #cccccc;
+	cursor: pointer;
+}
+
+#month:hover, #date:hover, #region-dropdown:hover,
+#country-dropdown:hover, #state-dropdown:hover, #city-dropdown:hover,
+#attacktype-dropdown:hover, #chart-dropdowns:hover{
+	border: 1px solid #cccccc;	
+}
