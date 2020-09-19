@@ -13,8 +13,17 @@ A visual summary of information to make it easier to identify patterns and trend
 
 ### Screenshots
 
-![](D:\Project-3\SS\world-map-full.png)
-Home
+![](images\world-map.png)
+World Map Tool
+
+![](images\india-map.png)
+India Map Tool
+
+![](images\world-chart.png)
+World Chart Tool
+
+![](images\india-chart)
+India Chart Tool
 
 ### Tech Stack
 * Frontend: Dash, CSS3
