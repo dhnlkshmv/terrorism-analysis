@@ -13,17 +13,13 @@ A visual summary of information to make it easier to identify patterns and trend
 
 ### Screenshots
 
-![](images\world-map.png)
-World Map Tool
+![World Map Tool](images/world-map.png)
 
-![](images\india-map.png)
-India Map Tool
+![India Map Tool](images/india-map.png)
 
-![](images\world-chart.png)
-World Chart Tool
+![World Chart Tool](images/world-chart.png)
 
-![](images\india-chart)
-India Chart Tool
+![India Chart Tool](images/india-chart)
 
 ### Tech Stack
 * Frontend: Dash, CSS3
