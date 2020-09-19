@@ -19,7 +19,7 @@ A visual summary of information to make it easier to identify patterns and trend
 
 ![World Chart Tool](images/world-chart.png)
 
-![India Chart Tool](images/india-chart)
+![India Chart Tool](images/india-chart.png)
 
 ### Tech Stack
 * Frontend: Dash, CSS3
